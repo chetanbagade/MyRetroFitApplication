@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRetroFitApplication</string>
+    <string name="myfirst_retrofit_application">MyFirst - Retrofit Application</string>
+    <string name="s_pref_file">com.example.myretrofitapplication.activity.sh_preference_file</string>
+    <string name="s_pref_login_status">com.example.myretrofitapplication.activity.sh_preference_login_status</string>
+    <string name="s_pref_name">com.example.myretrofitapplication.activity.sh_preference_name</string>
+    <string name="s_pref_email">com.example.myretrofitapplication.activity.sh_preference_email</string>
+    <string name="s_pref_date">com.example.myretrofitapplication.activity.sh_preference_date</string>
+
+</resources>
